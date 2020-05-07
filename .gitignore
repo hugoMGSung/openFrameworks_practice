@@ -338,3 +338,4 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/myGuiApp/bin/data/audios/sample_audio.mp3
