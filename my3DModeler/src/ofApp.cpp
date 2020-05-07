@@ -12,9 +12,9 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-	yourModel.setPosition(600, 300, 100);
-	yourModel.setRotation(10, 90, 1, 45, 0);
-	yourModel.setScale(0.5, 0.5, 0.5);
+	yourModel.setPosition(600, 600, 100);
+	yourModel.setRotation(10, 90, 10, 60, 10);
+	yourModel.setScale(0.7, 0.7, 0.7);
 	yourModel.drawFaces();
 }
 
